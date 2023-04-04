@@ -28,7 +28,7 @@
     "eslint-plugin-react-hooks": "^1.6.1",
     "jest-environment-jsdom-fourteen": "1.0.1",
     "jest-watch-typeahead": "0.4.2",
-    "plotly.js-cartesian-dist-min": "^2.9.0",
+    "plotly.js-cartesian-dist-min": "^2.19.1",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.13.1",
