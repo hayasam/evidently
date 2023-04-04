@@ -5276,10 +5276,10 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-plotly.js-cartesian-dist-min@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/plotly.js-cartesian-dist-min/-/plotly.js-cartesian-dist-min-2.9.0.tgz#ede948572bcd5622dbe35619c5c72abdf202cc18"
-  integrity sha512-eZyKZcdsEX3H6Km8JB5u1FTPph8JoSMqp/GpK3YO592cHxzxOrGXe8bizd2LdfjdUoDpLdTGWF6Uz98WmBygYg==
+plotly.js-cartesian-dist-min@^2.19.1:
+  version "2.20.0"
+  resolved "https://registry.yarnpkg.com/plotly.js-cartesian-dist-min/-/plotly.js-cartesian-dist-min-2.20.0.tgz#0bbed7b4ccccb59b8bf5c930c9f06658dc1e70d7"
+  integrity sha512-Th+LPAkxG3PDXOGjJrnMH6gqWsLJDc4oXBFSGnTOGF97Ay8o8VElov+hv8g0SGxUpbsSD8aoJJQncV5YIRfX0Q==
 
 pn@^1.1.0:
   version "1.1.0"
