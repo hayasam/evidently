@@ -11,3 +11,4 @@ types-dataclasses==0.6
 # Be careful on Black version update: this is the last release that supports running Black on Python 3.6
 black==22.8.0
 isort==5.10.1
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
